@@ -7,10 +7,12 @@ School district csv files, containing data of student grades and school size and
 3. For Each Grade within Each School
 4. Based on Budget per Student
 5. Based on School Size
-6. Base on School Type 
+6. Based on School Type 
 
+Upon reviewing the data, the school board noted inconsistencies and suspect academic dishonesty within the entire 9th grade of Thomas High School. Their scores were removed from the dataset, and the scores were re-analyzed, organized by subgroups, and compared to the original results.
 
 ### Purpose
+
 
 ## Results
 
