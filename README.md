@@ -16,7 +16,7 @@ The purpose of the initial analysis (PyCitySchools.ipynb), was to organize schoo
 
 ## Results
 
- - How is the district summary affected?
+ ### District Summary
    -  The district summary data showed marginal effect upon the removal of 9th graders from Thomas High School's grade data. The percentages of students passing math, 74.8%, showed a 0.2% reduction from the orginal percent passing math, 75.0%. The percentages of students passing reading, 85.7%, showed a 0.1% reduction from the orginal percent passing reading, 85.8%. The percentages of students passing overall, 64.9%, showed a 0.3% reduction from the orignial percent passing overall, 65.2%. <br>
 <br>
 
