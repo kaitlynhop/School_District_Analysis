@@ -39,10 +39,11 @@ The purpose of the initial analysis (PyCitySchools.ipynb), was to organize schoo
      -  When summarizing scores by number of students, there is no noticeable difference in any scores when excluding Thomas High 9th grade data. "Charter", containing Thomas High School data, shows no difference in average scores or passing percentages, when compared to original. 
 
 ## Summary
-To summarize, the replacement of Thomas High School's 9th graders' scores with "Not a Number" value and excluding them from the dataset altered the results in four ways:
+The replacement of Thomas High School's 9th graders' scores with "Not a Number" value and excluding them from the dataset altered the results in four ways:
  1. School district passing percentages for math, reading, and overall were reduced. 
  2. Thomas High School passing percentages for math, reading, and overall were reduced. 
- 3. Reading and overall passing percentages for schools with budget between $630 - $644 per student, were reduced. 
+ 3. Reading and overall passing percentages for schools with a budget between $630 and $644 per student, were reduced. 
  4. Reading passing percentages for medium schools (1000 - 2000 students) were reduced.
 
+While the changes are negligible when rounding to the nearest whole percent, the removal of data from a selected school's entire grade, showed a consistent reduction in the passing percentages when compared to the orginal analysis. 
 
