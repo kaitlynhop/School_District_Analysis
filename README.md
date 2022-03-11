@@ -36,7 +36,7 @@ The purpose of the initial analysis (PyCitySchools.ipynb), was to organize schoo
    -  When summarizing scores by number of students, the size range, "Medium (1000 - 2000)", containing Thomas High School data, shows 0.1% decrease in percentage of students passing reading (96.7%), when compared to original (96.8%). However, this becomes negligible when the data is formatted to the nearest whole percent.
   
 #### School Type
-   -  When summarizing scores by number of students, there is no noticeable difference in any scores when excluding Thomas High 9th grade data. "Charter", containing Thomas High School data, shows no difference in average scores or passing percentages, when compared to original. 
+   -  When summarizing scores by type, "District" or "Charter", there is no noticeable difference in any scores when excluding Thomas High 9th grade data. "Charter", containing Thomas High School data, shows no difference in average scores or passing percentages, when compared to original. 
 
 ## Summary
 The replacement of Thomas High School's 9th graders' scores with "Not a Number" value and excluding them from the dataset altered the results in four ways:
