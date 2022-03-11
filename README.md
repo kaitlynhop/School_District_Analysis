@@ -20,10 +20,9 @@ The purpose of the initial analysis (PyCitySchools.ipynb), was to organize schoo
    -  The district summary data showed marginal effect upon the removal of 9th graders from Thomas High School's grade data. The percentages of students passing math, 74.8%, showed a 0.2% reduction from the orginal percent passing math, 75.0%. The percentages of students passing reading, 85.7%, showed a 0.1% reduction from the orginal percent passing reading, 85.8%. The percentages of students passing overall, 64.9%, showed a 0.3% reduction from the orignial percent passing overall, 65.2%. <br>
 
 ### School Summary
-   -  In the school summary, only Thomas High School was affected due to the removal of 9th grade data from Thomas High School. The exclusion of 9th grade data lowered the passing percentages from 93.3%, 97.3%, and 90.9% to 93.2%, 97.0%, and 90.6% respectively, for math, reading, and overall. Decrease in passing percentages were observed for all subject criteria with a 0.1% decrease for math and 0.3% decrease for reading and overall. <br>
-<br>
+   -  In the school summary, only Thomas High School was affected due to the removal of 9th grade data from Thomas High School. The exclusion of 9th grade data lowered the passing percentages from 93.3%, 97.3%, and 90.9% to 93.2%, 97.0%, and 90.6% respectively, for math, reading, and overall. Decrease in passing percentages were observed for all subject criteria with a 0.1% decrease for math and 0.3% decrease for reading and overall. 
 
- -  Thomas High School remains the 2nd ranked school in the school district for overall passing percentage, when 9th grade data is excluded. <br>
+ -  Thomas High School remains the 2nd ranked school in the school district for overall passing percentage, when 9th grade data is excluded. 
 
 #### Math and reading scores by grade
  - The 9th grade average math and reading scores for Thomas High School now read as "nan" since the scores for each 9th grader were replaced with NaN. The remaining math and reading averages for each school and grade are identical to the original. 
