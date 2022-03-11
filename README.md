@@ -27,9 +27,9 @@ The purpose of the initial analysis (PyCitySchools.ipynb), was to organize schoo
 #### Math and reading scores by grade
  - The 9th grade average math and reading scores for Thomas High School now read as "nan" since the scores for each 9th grader were replaced with NaN. The remaining math and reading averages for each school and grade are identical to the original. 
   
-### Categorizing Data within School District By: 
+### Categorizing District Scores By: 
 
-#### School Budget
+#### School Budgets Per Student
    - When summarizing scores by school spending per student, the spending range $630 - $644, containing Thomas High School data, shows 0.1% decrease in percentage of students passing reading (84.3%) and percentage of students overall passing (62.8%), when compared to the original (84.4% and 62.9% respectively). However, this becomes negligible when the data is formatted to the nearest whole percent. 
   
 #### School Size
