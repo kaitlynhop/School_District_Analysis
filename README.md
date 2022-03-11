@@ -20,29 +20,29 @@ The purpose of the initial analysis (PyCitySchools.ipynb), was to organize schoo
    -  The district summary data showed marginal effect upon the removal of 9th graders from Thomas High School's grade data. The percentages of students passing math, 74.8%, showed a 0.2% reduction from the orginal percent passing math, 75.0%. The percentages of students passing reading, 85.7%, showed a 0.1% reduction from the orginal percent passing reading, 85.8%. The percentages of students passing overall, 64.9%, showed a 0.3% reduction from the orignial percent passing overall, 65.2%. <br>
 <br>
 
- - How is the school summary affected?
+### School Summary
    -  In the school summary, only Thomas High School was affected due to the removal of 9th grade data from Thomas High School. The exclusion of 9th grade data lowered the passing percentages from 93.3%, 97.3%, and 90.9% to 93.2%, 97.0%, and 90.6% respectively, for math, reading, and overall. Decrease in passing percentages were observed for all subject criteria with a 0.1% decrease for math and 0.3% decrease for reading and overall. <br>
 <br>
 
- - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-   -  Thomas High School remains the 2nd ranked school in the school district for overall passing percentage, when 9th grade data is excluded. <br>
+ -  Thomas High School remains the 2nd ranked school in the school district for overall passing percentage, when 9th grade data is excluded. <br>
 <br>
 
- - How does replacing the ninth-grade scores affect the following:
-   - Math and reading scores by grade
-     - The 9th grade average math and reading scores for Thomas High School now read as "nan" since the scores for each 9th grader were replaced with NaN. The remaining math and reading average for each school and grade are identical to the original. 
+#### Math and reading scores by grade
+ - The 9th grade average math and reading scores for Thomas High School now read as "nan" since the scores for each 9th grader were replaced with NaN. The remaining math and reading averages for each school and grade are identical to the original. 
   <br> 
   
-   - Scores by school spending
-     - When summarizing scores by school spending per student, the spending range $630 - $644, containing Thomas High School data, shows 0.1% decrease in percentage of students passing reading (84.3%) and percentage of students overall passing (62.8%), when compared to the original (84.4% and 62.9% respectively). However, this becomes negligible when the data is formatted to the nearest whole percent.   
+### Categorizing Data within School District By: 
+
+#### School Budget
+   - When summarizing scores by school spending per student, the spending range $630 - $644, containing Thomas High School data, shows 0.1% decrease in percentage of students passing reading (84.3%) and percentage of students overall passing (62.8%), when compared to the original (84.4% and 62.9% respectively). However, this becomes negligible when the data is formatted to the nearest whole percent. 
   <br> 
   
-  - Scores by school size
-     -  When summarizing scores by number of students, the size range, "Medium (1000 - 2000)", containing Thomas High School data, shows 0.1% decrease in percentage of students passing reading (96.7%), when compared to original (96.8%). However, this becomes negligible when the data is formatted to the nearest whole percent.
+#### School Size
+   -  When summarizing scores by number of students, the size range, "Medium (1000 - 2000)", containing Thomas High School data, shows 0.1% decrease in percentage of students passing reading (96.7%), when compared to original (96.8%). However, this becomes negligible when the data is formatted to the nearest whole percent.
   <br> 
   
-  - Scores by school type
-     -  When summarizing scores by number of students, there is no noticeable difference in any scores when excluding Thomas High 9th grade data. "Charter", containing Thomas High School data, shows no difference in average scores or passing percentages, when compared to original. 
+#### School Type
+   -  When summarizing scores by number of students, there is no noticeable difference in any scores when excluding Thomas High 9th grade data. "Charter", containing Thomas High School data, shows no difference in average scores or passing percentages, when compared to original. 
 
 ## Summary
 The replacement of Thomas High School's 9th graders' scores with "Not a Number" value and excluding them from the dataset altered the results in four ways:
