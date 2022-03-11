@@ -17,14 +17,16 @@ Upon reviewing the data, the school board noted inconsistencies and suspect acad
 ## Results
 
  - How is the district summary affected?
-   -  The district summary data showed marginal effect upon the removal of 9th graders from Thomas High School's grade data. The percentages of students passing math and overall decreased by 0.2%, and the percentages of students passing reading decreased by 0.1%.
+   -  The district summary data showed marginal effect upon the removal of 9th graders from Thomas High School's grade data. The percentages of students passing math and overall decreased by 0.2%, and the percentages of students passing reading decreased by 0.1%. <br>
  - How is the school summary affected?
-   -  In the school summary, only Thomas High School was affected due to the removal of 9th grade data from Thomas High School. The passing percentages for Thomas High decreased observably. Excluding the 9th graders data, the percentage passing rates were 66.9%, 69.7%, and 65.1% respectively for math, reading, and overall. In the original school summary dataset that includes the scores from 9th graders, Thomas High School showed passing percentages of 93.3%, 97.3%, and 90.9%, respectively for math, reading, and overall. 
+   -  In the school summary, only Thomas High School was affected due to the removal of 9th grade data from Thomas High School. The passing percentages for Thomas High decreased observably. Excluding the 9th graders data, the percentage passing rates were 66.9%, 69.7%, and 65.1% respectively for math, reading, and overall. In the original school summary dataset that includes the scores from 9th graders, Thomas High School showed passing percentages of 93.3%, 97.3%, and 90.9%, respectively for math, reading, and overall. <br>
  - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-   -  Thomas High School overall passing percentages ranked number 2 in the school district, with the inclusion of ninth graders data. Excluding the 9th graders data, Thomas High School ranks number 8 out of the 15 schools in the district for overall passing percentages. 
+   -  Thomas High School overall passing percentages ranked number 2 in the school district, with the inclusion of ninth graders data. Excluding the 9th graders data, Thomas High School ranks number 8 out of the 15 schools in the district for overall passing percentages. <br>
  - How does replacing the ninth-grade scores affect the following:
    - Math and reading scores by grade
+     -  <br>
    - Scores by school spending
+     -  <br>
    - Scores by school size
    - Scores by school type
 
